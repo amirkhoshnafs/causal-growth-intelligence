@@ -1,0 +1,57 @@
+date,product_category,segment,group,period,sessions,conversion_rate,revenue,ad_spend,campaign_flag,channel,discount_flag,stock_status,notes
+2026-06-01,Skincare,Returning Customers,treatment,pre,1165,0.0331,3864.45,0.0,0,Email,0,normal,baseline period
+2026-06-01,Skincare,New Customers,control,pre,1117,0.0319,3646.26,0.0,0,None,0,normal,baseline period
+2026-06-02,Skincare,Returning Customers,treatment,pre,1146,0.0316,3702.4,0.0,0,Email,0,normal,baseline period
+2026-06-02,Skincare,New Customers,control,pre,1113,0.032,3748.57,0.0,0,None,0,normal,baseline period
+2026-06-03,Skincare,Returning Customers,treatment,pre,1163,0.0341,4034.36,0.0,0,Email,0,normal,baseline period
+2026-06-03,Skincare,New Customers,control,pre,1166,0.0323,4083.5,0.0,0,None,0,normal,baseline period
+2026-06-04,Skincare,Returning Customers,treatment,pre,1183,0.0318,3984.09,0.0,0,Email,0,normal,baseline period
+2026-06-04,Skincare,New Customers,control,pre,1143,0.0318,3857.17,0.0,0,None,0,normal,baseline period
+2026-06-05,Skincare,Returning Customers,treatment,pre,1171,0.032,3950.78,0.0,0,Email,0,normal,baseline period
+2026-06-05,Skincare,New Customers,control,pre,1159,0.0303,3535.4,0.0,0,None,0,normal,baseline period
+2026-06-06,Skincare,Returning Customers,treatment,pre,1218,0.0332,4268.4,0.0,0,Email,0,normal,baseline period
+2026-06-06,Skincare,New Customers,control,pre,1166,0.0333,4051.8,0.0,0,None,0,normal,baseline period
+2026-06-07,Skincare,Returning Customers,treatment,pre,1148,0.0336,4089.79,0.0,0,Email,0,normal,baseline period
+2026-06-07,Skincare,New Customers,control,pre,1204,0.0332,4103.42,0.0,0,None,0,normal,baseline period
+2026-06-08,Skincare,Returning Customers,treatment,pre,1131,0.03,3652.55,0.0,0,Email,0,normal,baseline period
+2026-06-08,Skincare,New Customers,control,pre,1050,0.0333,3413.99,0.0,0,None,0,normal,baseline period
+2026-06-09,Skincare,Returning Customers,treatment,pre,1162,0.0326,4123.31,0.0,0,Email,0,normal,baseline period
+2026-06-09,Skincare,New Customers,control,pre,1168,0.0291,3572.81,0.0,0,None,0,normal,baseline period
+2026-06-10,Skincare,Returning Customers,treatment,pre,1075,0.0316,3447.78,0.0,0,Email,0,normal,baseline period
+2026-06-10,Skincare,New Customers,control,pre,1120,0.0292,3511.67,0.0,0,None,0,normal,baseline period
+2026-06-11,Skincare,Returning Customers,treatment,pre,1160,0.0304,3526.79,0.0,0,Email,0,normal,baseline period
+2026-06-11,Skincare,New Customers,control,pre,1167,0.0326,3894.32,0.0,0,None,0,normal,baseline period
+2026-06-12,Skincare,Returning Customers,treatment,pre,1156,0.0317,3890.54,0.0,0,Email,0,normal,baseline period
+2026-06-12,Skincare,New Customers,control,pre,1179,0.0329,4063.77,0.0,0,None,0,normal,baseline period
+2026-06-13,Skincare,Returning Customers,treatment,pre,1172,0.0299,3828.32,0.0,0,Email,0,normal,baseline period
+2026-06-13,Skincare,New Customers,control,pre,1106,0.0324,3516.57,0.0,0,None,0,normal,baseline period
+2026-06-14,Skincare,Returning Customers,treatment,pre,1148,0.0317,3795.1,0.0,0,Email,0,normal,baseline period
+2026-06-14,Skincare,New Customers,control,pre,1136,0.0296,3444.63,0.0,0,None,0,normal,baseline period
+2026-06-15,Skincare,Returning Customers,treatment,post,1236,0.0276,3403.81,411.72,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-15,Skincare,New Customers,control,post,1188,0.0348,4252.58,0.0,0,None,0,normal,control segment no campaign
+2026-06-16,Skincare,Returning Customers,treatment,post,1178,0.0281,3545.46,458.7,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-16,Skincare,New Customers,control,post,1144,0.036,4324.36,0.0,0,None,0,normal,control segment no campaign
+2026-06-17,Skincare,Returning Customers,treatment,post,1204,0.0268,3366.5,411.89,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-17,Skincare,New Customers,control,post,1135,0.0326,4003.51,0.0,0,None,0,normal,control segment no campaign
+2026-06-18,Skincare,Returning Customers,treatment,post,1171,0.0257,2968.19,445.12,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-18,Skincare,New Customers,control,post,1115,0.0359,4316.17,0.0,0,None,0,normal,control segment no campaign
+2026-06-19,Skincare,Returning Customers,treatment,post,1140,0.0278,3301.8,372.9,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-19,Skincare,New Customers,control,post,1090,0.0334,3764.39,0.0,0,None,0,normal,control segment no campaign
+2026-06-20,Skincare,Returning Customers,treatment,post,1190,0.026,3277.61,422.39,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-20,Skincare,New Customers,control,post,1173,0.0372,4639.28,0.0,0,None,0,normal,control segment no campaign
+2026-06-21,Skincare,Returning Customers,treatment,post,1165,0.0312,3949.77,411.88,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-21,Skincare,New Customers,control,post,1042,0.0324,3395.59,0.0,0,None,0,normal,control segment no campaign
+2026-06-22,Skincare,Returning Customers,treatment,post,1117,0.0271,3135.27,449.42,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-22,Skincare,New Customers,control,post,1131,0.0354,4375.53,0.0,0,None,0,normal,control segment no campaign
+2026-06-23,Skincare,Returning Customers,treatment,post,1190,0.0296,3541.13,419.15,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-23,Skincare,New Customers,control,post,1135,0.0358,4304.77,0.0,0,None,0,normal,control segment no campaign
+2026-06-24,Skincare,Returning Customers,treatment,post,1145,0.0285,3373.68,477.4,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-24,Skincare,New Customers,control,post,1108,0.0358,4091.68,0.0,0,None,0,normal,control segment no campaign
+2026-06-25,Skincare,Returning Customers,treatment,post,1130,0.03,3449.57,438.33,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-25,Skincare,New Customers,control,post,1216,0.0336,4222.53,0.0,0,None,0,normal,control segment no campaign
+2026-06-26,Skincare,Returning Customers,treatment,post,1103,0.0289,3111.39,402.15,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-26,Skincare,New Customers,control,post,1173,0.0329,4218.42,0.0,0,None,0,normal,control segment no campaign
+2026-06-27,Skincare,Returning Customers,treatment,post,1102,0.0268,2857.34,423.81,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-27,Skincare,New Customers,control,post,1119,0.0343,4166.16,0.0,0,None,0,normal,control segment no campaign
+2026-06-28,Skincare,Returning Customers,treatment,post,1104,0.0263,3012.03,468.94,1,Email,0,normal,campaign active but weak offer/message fit
+2026-06-28,Skincare,New Customers,control,post,1115,0.0321,3723.94,0.0,0,None,0,normal,control segment no campaign
