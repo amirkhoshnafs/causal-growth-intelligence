@@ -8,7 +8,7 @@
 
 [**Launch Live Streamlit App**](https://huggingface.co/spaces/amirkhoshnafs/causal-campaign-analyst-agent) · [**Read the 41-page case study**](docs/Enrich_Labs_Case_Study_Public.pdf) · [**Explore the methodology**](docs/methodology.md)
 
-![Causal Growth Intelligence — project overview](assets/new_cover.png)
+![Causal Growth Intelligence — project overview](assets/cover.png)
 
 </div>
 
